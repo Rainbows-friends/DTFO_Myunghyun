@@ -1,0 +1,20 @@
+dataset/
+    person1/
+        img1.jpg
+        img2.jpg
+        ...
+    person2/
+        img1.jpg
+        img2.jpg
+        ...
+    ...
+
+train/
+    class1/
+        img1.jpg
+        img2.jpg
+        ...
+    class2/
+        img1.jpg
+        img2.jpg
+        ...
